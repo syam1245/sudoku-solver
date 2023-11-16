@@ -1,6 +1,8 @@
 
 ## Introduction
 
+This code is entirely done with chatGPT prompting.
+
 This repository contains a JavaScript implementation of a Sudoku solver using a backtracking algorithm. The solver is encapsulated within the `SudokuSolver` class, providing functionality to solve Sudoku puzzles of any size and visualize the intermediate states of the solution process.
 
 ## Usage
